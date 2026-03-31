@@ -1,2 +1,3 @@
 First line
 second line for local commit
+3rd line
